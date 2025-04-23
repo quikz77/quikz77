@@ -60,16 +60,16 @@
 
 ### 🔗 **IoT & Messaging Protocols**:
 <p align="left">
-  <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mqtt/mqtt-icon.svg" alt="mqtt" width="40" height="40"/> </a>
-  <a href="https://www.thingsboard.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/thingsboard/thingsboard-icon.svg" alt="thingsboard" width="40" height="40"/> </a>
+  <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmqtt.tw%2Fimg%2Flogo%2F3.jpg&f=1&nofb=1&ipt=f97a6e814e2f28369d0968041a979b07608067cba1e9525fe6bb9c70b96ec974" alt="mqtt" width="40" height="40"/> </a>
+  <a href="https://www.thingsboard.io/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F24291394%3Fs%3D400%26v%3D4&f=1&nofb=1&ipt=2b112b4e0d686778523524ccdb41f6e19c7b7bfcf65d772b39789e66e7dcf182" alt="thingsboard" width="40" height="40"/> </a>
 </p>
 
 ---
 
 ### 🧠 **Data Processing & Visualization**:
 <p align="left">
-  <a href="https://datahubproject.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/datahubproject/datahubproject-icon.svg" alt="datahub" width="40" height="40"/> </a>
-  <a href="https://pentaho.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pentaho/pentaho-icon.svg" alt="pentaho" width="40" height="40"/> </a>
+  <a href="https://datahubproject.io/" target="_blank" rel="noreferrer"> <img src="https://datahubproject.io/img/datahub-logo-color-light-horizontal.svg" alt="datahub" width="40" height="40"/> </a>
+  <a href="https://pentaho.com/" target="_blank" rel="noreferrer"> <img src="https://pentaho.com/wp-content/uploads/2024/10/Untitled-design-3-1.png" alt="pentaho" width="40" height="40"/> </a>
 </p>
 
 ---
